@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>[Jeremy] Plague Gun</name>
+    <author>Jeremy Miller</author>
+    <packageId>jeremy.PlagueGun</packageId>
+    <supportedVersions>
+        <li>1.2</li>
+    </supportedVersions>
+    <description>This mod adds a plague gun, a weapon that has a chance to give your enemies the plague.</description>
+</ModMetaData>
