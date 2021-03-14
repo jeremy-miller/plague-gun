@@ -13,6 +13,13 @@
             <stoppingPower>1</stoppingPower>
             <speed>55</speed>
         </projectile>
+        <thingClass>JM_PlagueGun.Projectile_PlagueBullet</thingClass>
+        <modExtensions>
+            <li Class="JM_PlagueGun.ModExtension_PlagueBullet">
+                <addHediffChance>0.05</addHediffChance>
+                <hediffToAdd>Plague</hediffToAdd>
+            </li>
+        </modExtensions>
     </ThingDef>
 
     <ThingDef ParentName="BaseHumanMakeableGun">
