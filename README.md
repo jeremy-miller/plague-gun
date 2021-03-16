@@ -11,8 +11,7 @@ based on [this guide](https://rimworldwiki.com/wiki/Plague_Gun_(1.1)).
 - [VS Code](https://code.visualstudio.com/)
     - Configure Git bash as default terminal shell by adding this to `settings.json`:
     `"terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe"`
-- [dnSpy](https://github.com/dnSpy/dnSpy)
 
-## Setup
-To create a symlink for this mod into the RimWorld `Mods` directory:
+## Usage
+To use this mod, create a symlink for this mod into the RimWorld `Mods` directory:
 `mklink /D "C:/Program Files (x86)/Steam/steamapps/common/RimWorld/Mods/PlagueGun" "C:/Users/jerem/Code/plague-gun/PlagueGun"`
